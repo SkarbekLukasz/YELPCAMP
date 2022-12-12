@@ -1,0 +1,23 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "Application for campgraounds localisation and reviewing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yelp-camp"
+  },
+  "keywords": [
+    "js",
+    "crud",
+    "html",
+    "css",
+    "web",
+    "app"
+  ],
+  "author": "Luke",
+  "license": "MIT"
+}
